@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+langchain-core
+langchain-community
+dotenv
+sentence-transformers
+pillow
+streamlit
+mysql.connector
